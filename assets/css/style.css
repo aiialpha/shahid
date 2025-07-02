@@ -131,6 +131,11 @@
       .hero-img {
         margin-top: 2rem;
       }
+      .hero-img img {
+      width: 300px;
+      height: 300px;
+   
+    }
       .nav-links {
         gap: 1rem;
       }
